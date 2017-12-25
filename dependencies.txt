@@ -1,0 +1,27 @@
+# file: dependencies.txt
+#
+# This file lists additional Debian packages that must be installed
+# prior to running your entry's 'setup.sh' and 'next.sh' scripts.
+# Each package must be on a separate line.
+
+#octave
+#octave-signal
+#octave-statistics
+#matlab
+
+python-dev
+build-essential
+python-setuptools
+python2.7
+python-pip
+python-virtualenv
+python-numpy
+python-sklearn
+python-scipy
+python-h5py
+python-yaml
+virtualenv
+python-theano = 0.8.2-6
+python-six    = 1.10.0-3
+python-pandas
+python-pywt

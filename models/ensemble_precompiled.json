@@ -1,0 +1,18 @@
+[
+  {"name": "cont113_0vkdd_aug_3l_u0.5_p0.15_g0.001_nu256-rnn-38-0.3924.h5.pickle", "input": "drr,wle,ramp,qamp,qrsd"},
+  {"name": "0vk_att_5l_u0.65_p0.35_g0_nu80-rnn-154-0.3950.h5.pickle", "input": "drr,wle,ramp,qamp,qrsd,enc,morphenc,went,kpca,norm", "architecture": "1"},
+  {"name": "1vk_norm_1l_u0.6_p0.6_g0_nu128-rnn-181-0.2048.h5.pickle", "input": "drr,wle,ramp,qamp,qrsd,enc,morphenc,went,kpca,norm", "architecture": "2"},
+  {"name": "enc1v2ext_aug_3l_u0.6_p0.55_g0.001_nu256-rnn-151-0.3527.h5.pickle", "input": "drr,wle,ramp,qamp,qrsd,enc,qrs", "architecture": "3"},
+  {"name": "weights/cont180_enc1v2ext_aug_3l_u0.6_p0.55_g0.001_nu256-rnn-28-0.3555.weights", "input": "drr,wle,ramp,qamp,qrsd,enc,qrs", "architecture": "3"},
+  {"name": "2vk_none_1l_u0.6_p0.55_nu128-rnn-1103-0.4680.h5.pickle", "input": "drr,wle,ramp,qamp,qrsd,enc,went", "architecture": "4"},
+  {"name": "weights/2vk_att_5l_u0.65_p0.35_g0_nu80-rnn-185-0.4339.weights", "input": "drr,wle,ramp,qamp,qrsd,enc,morphenc,went,kpca,norm", "architecture": "1"},
+  {"name": "weights/3vk_norm_smote_1l_u0.6_p0.6_g0.15_nu128-rnn-274-0.0977.weights", "input": "drr,wle,ramp,qamp,qrsd,enc,morphenc,went,kpca,norm", "architecture": "2"},
+  {"name": "weights/0v2_none_1l_u0.6_p0.55_nu128-rnn-1103-0.4680.weights", "input": "drr,wle,ramp,qamp,qrsd,enc,went", "architecture": "4"},
+  {"name": "2v1_smote_1l_u0.6_p0.45_nu128-rnn-3754-0.3525.h5.pickle", "input": "drr,wle,morphenc,went"},
+  {"name": "2v1_augmin_1l_u0.35_p0.5_g0_nu128-rnn-2544-0.3503.h5.pickle", "input": "drr,wle,ramp,qamp,qrsd,morphenc,went", "architecture": "5"},
+  {"name": "weights/2v0_augmin_1l_u0.6_p0.5_g0.001_nu128-rnn-456-0.4518.weights", "input": "drr,wle,ramp,qamp,qrsd,morphenc,went", "architecture": "5"},
+  {"name": "weights/2v1_att_5l_u0.65_p0.35_g0_nu80-rnn-226-0.3970.weights", "input": "drr,wle,ramp,qamp,qrsd,enc,morphenc,went,kpca,norm", "architecture": "1"},
+  {"name": "2v0_bi_1l_u0_p0.5_g0_nu128-rnn-76-0.4823.h5.pickle", "input": "drr,wle,ramp,qamp,qrsd,enc,morphenc,went,kpca,norm"},
+  {"name": "weights/2v0_att_5l_u0.65_p0.35_g0_nu80-rnn-174-0.4046.weights", "input": "drr,wle,ramp,qamp,qrsd,enc,morphenc,went,kpca,norm", "architecture": "1"},
+  {"name": "$HMM_MODELS", "input": "drr,wle,ramp,qamp,qrsd,enc,morphenc,went,kpca,norm"}
+]
