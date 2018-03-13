@@ -1,5 +1,4 @@
 ## Beat by Beat: Classifying Cardiac Arrhythmias with Recurrent Neural Networks
----
 
 Contact: Patrick Schwab, ETH Zurich <patrick.schwab@hest.ethz.ch>
 
