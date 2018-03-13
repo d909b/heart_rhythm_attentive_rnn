@@ -16,7 +16,7 @@ If you reference our methodology, code or results in your work, please consider 
     @inproceedings{schwab2017beat,
       title={Beat by Beat: Classifying Cardiac Arrhythmias with Recurrent Neural Networks},
       author={Schwab, Patrick and Scebba, Gaetano and Zhang, Jia and Delai, Marco and Karlen, Walter},
-      booktitle={arXiv preprint arXiv:1710.06319},
+      booktitle={Computing in Cardiology},
       year={2017}
     }
 
